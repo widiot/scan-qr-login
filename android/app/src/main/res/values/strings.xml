@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ScanQR</string>
+    <string name="scan_text">扫一扫</string>
+</resources>
